@@ -1,5 +1,8 @@
 # Cross-dataset generalization in HCC tumour segmentation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22355825.svg)](https://doi.org/10.5281/zenodo.22355825)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Code accompanying the manuscript:
 
 > **Architecture Does Not Determine Cross-Dataset Generalization in Hepatocellular Carcinoma Tumor Segmentation: A Three-Family Comparison with Failure-Mode and Calibration Analysis**
@@ -167,6 +170,14 @@ python figures/fig6.py
 ## Citation
 
 ```bibtex
+@software{kutlu_hcc_crossdataset_code,
+  title     = {Cross-dataset generalization in HCC tumour segmentation: code and analysis},
+  author    = {Kutlu, H\"{u}seyin},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22355825}
+}
+
 @article{kutlu_hcc_crossdataset,
   title  = {Architecture Does Not Determine Cross-Dataset Generalization in
             Hepatocellular Carcinoma Tumor Segmentation},
