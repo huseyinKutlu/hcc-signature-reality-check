@@ -1,0 +1,29 @@
+case             dice   hd95mm   assdmm
+BIRCAD_001      0.820    56.48     8.59
+BIRCAD_002      0.000      nan      nan  <-- KACIRILDI
+BIRCAD_003      0.000      nan      nan  <-- KACIRILDI
+BIRCAD_004      0.159    97.50    43.31
+BIRCAD_005      0.490    81.48    22.52
+BIRCAD_006      0.000    80.76    52.48
+BIRCAD_007      0.856     5.47     2.75
+BIRCAD_008      0.480    65.76    18.66
+BIRCAD_009      0.000      nan      nan  <-- KACIRILDI
+BIRCAD_010      0.584    44.21    11.58
+BIRCAD_011      0.000      nan      nan  <-- KACIRILDI
+BIRCAD_012      0.000    59.74    49.60
+BIRCAD_013      0.457    95.97    31.63
+BIRCAD_014      0.000    45.86    38.34
+BIRCAD_015      0.050    56.74    33.64
+
+=== DIS DOGRULAMA (3D-IRCADb, n=15) ===
+  dice : 0.260 [0.116, 0.431]
+  iou  : 0.194 [0.080, 0.333]
+  hd95 : 62.724 [46.660, 76.753] mm
+  assd : 28.464 [18.651, 38.352] mm
+  tamamen kacirilan tumor: 4/15
+
+=== GENELLEME ACIGI ===
+  Ic (HCC-TACE-Seg 5-fold CV): 0.685
+  Dis (3D-IRCADb)            : 0.260
+  delta (dis - ic)           : -0.425
+per-case CSV yazildi: ircadb_percase.csv

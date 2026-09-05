@@ -1,0 +1,19 @@
+# imaging data and model artefacts are never committed
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/
+*_predictions*/
+*_liver/
+*_nnunet/
+Task03_Liver/
+3Dircadb1*/
+*.nii
+*.nii.gz
+*.npz
+*.pth
+*.dcm
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store

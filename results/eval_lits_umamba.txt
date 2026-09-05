@@ -1,0 +1,132 @@
+case             dice   hd95mm   assdmm
+BLITS_001       0.000   135.96    83.79
+BLITS_002       0.315    39.96    10.89
+BLITS_003       0.541   116.82    19.09
+BLITS_004       0.792    15.29     4.92
+BLITS_005       0.350   129.75    34.79
+BLITS_006       0.853     3.21     1.19
+BLITS_007       0.667   121.05    28.81
+BLITS_008       0.000      nan      nan  <-- KACIRILDI
+BLITS_009       0.495    77.44    16.22
+BLITS_010       0.408    21.54     6.45
+BLITS_011       0.057   140.51    76.67
+BLITS_012       0.000      nan      nan  <-- KACIRILDI
+BLITS_013       0.653    69.83    13.48
+BLITS_014       0.244    56.89    26.06
+BLITS_015       0.000      nan      nan  <-- KACIRILDI
+BLITS_016       0.587    31.07     7.46
+BLITS_017       0.000    78.68    48.15
+BLITS_018       0.502    34.82     8.66
+BLITS_019       0.847    16.93     4.75
+BLITS_020       0.000   366.54   353.30
+BLITS_021       0.000   228.80   171.53
+BLITS_022       0.000   126.49    66.47
+BLITS_023       0.736    37.17     5.84
+BLITS_024       0.682    13.42     4.72
+BLITS_025       0.788    47.33     6.00
+BLITS_026       0.000      nan      nan  <-- KACIRILDI
+BLITS_027       0.000      nan      nan  <-- KACIRILDI
+BLITS_028       0.000   400.74   388.50
+BLITS_029       0.713    47.57     8.00
+BLITS_030       0.741    19.64     6.00
+BLITS_031       0.000   191.79   156.07
+BLITS_032       0.861    15.55     4.83
+BLITS_033       0.645     4.20     1.32
+BLITS_034       0.000   279.32   218.57
+BLITS_035       0.742    13.71     5.16
+BLITS_036       0.561   296.17    62.24
+BLITS_037       0.630    21.28     5.85
+BLITS_038       0.237    24.99     9.08
+BLITS_039       0.000      nan      nan  <-- KACIRILDI
+BLITS_040       0.000      nan      nan  <-- KACIRILDI
+BLITS_041       0.066   220.87   128.50
+BLITS_042       0.332    30.83    12.37
+BLITS_043       0.372    20.88    12.21
+BLITS_044       0.000      nan      nan  <-- KACIRILDI
+BLITS_045       0.000      nan      nan  <-- KACIRILDI
+BLITS_046       0.679     7.41     3.55
+BLITS_047       0.661    10.18     3.42
+BLITS_048       0.744    67.15    10.92
+BLITS_049       0.000      nan      nan  <-- KACIRILDI
+BLITS_050       0.000   305.66   295.40
+BLITS_051       0.000    50.21    31.09
+BLITS_052       0.000      nan      nan  <-- KACIRILDI
+BLITS_053       0.542    76.77    18.21
+BLITS_054       0.000   215.20   132.02
+BLITS_055       0.057    26.04    14.32
+BLITS_056       0.005   166.51    93.54
+BLITS_057       0.007    80.96    42.24
+BLITS_058       0.778    22.20     6.76
+BLITS_059       0.541    51.87    14.09
+BLITS_060       0.000      nan      nan  <-- KACIRILDI
+BLITS_061       0.000    47.93    37.06
+BLITS_062       0.462    47.21    12.51
+BLITS_063       0.181    24.29     8.79
+BLITS_064       0.052   126.97    43.60
+BLITS_065       0.875    98.95    10.40
+BLITS_066       0.120    80.57    48.06
+BLITS_067       0.000    49.39    43.33
+BLITS_068       0.130   209.16   133.03
+BLITS_069       0.834    10.50     2.69
+BLITS_070       0.800    53.18     8.20
+BLITS_071       0.371    67.59    13.99
+BLITS_072       0.000      nan      nan  <-- KACIRILDI
+BLITS_073       0.000   247.93   222.11
+BLITS_074       0.728   143.44    18.21
+BLITS_075       0.141   147.35    36.75
+BLITS_076       0.000   235.19   193.59
+BLITS_077       0.000      nan      nan  <-- KACIRILDI
+BLITS_078       0.701    89.85    13.70
+BLITS_079       0.557     7.88     4.91
+BLITS_080       0.721    47.21     5.91
+BLITS_081       0.000      nan      nan  <-- KACIRILDI
+BLITS_082       0.130    79.27    48.17
+BLITS_083       0.903     5.07     2.10
+BLITS_084       0.000      nan      nan  <-- KACIRILDI
+BLITS_085       0.317    94.71    39.02
+BLITS_086       0.000   256.32   242.86
+BLITS_087       0.157   100.47    59.51
+BLITS_088       0.603     5.70     2.31
+BLITS_089       0.759   141.23    17.80
+BLITS_090       0.617    53.26    13.12
+BLITS_091       0.789    16.90     3.75
+BLITS_092       0.800    50.55     4.62
+BLITS_093       0.000      nan      nan  <-- KACIRILDI
+BLITS_094       0.198   210.14    74.83
+BLITS_095       0.714    45.25    11.30
+BLITS_096       0.788     9.31     5.58
+BLITS_097       0.720     5.00     1.44
+BLITS_098       0.394   328.11    65.32
+BLITS_099       0.522    57.20    13.36
+BLITS_100       0.542    82.78    33.67
+BLITS_101       0.914     2.86     0.93
+BLITS_102       0.308   244.33   125.73
+BLITS_103       0.785     5.89     2.58
+BLITS_104       0.000      nan      nan  <-- KACIRILDI
+BLITS_105       0.709    10.83     3.88
+BLITS_106       0.000   194.02   166.46
+BLITS_107       0.000      nan      nan  <-- KACIRILDI
+BLITS_108       0.770    13.02     5.24
+BLITS_109       0.445    91.51    26.42
+BLITS_110       0.018   251.47    98.23
+BLITS_111       0.000   329.88   313.25
+BLITS_112       0.157    50.60    16.87
+BLITS_113       0.537   146.89    26.50
+BLITS_114       0.000   182.48   174.66
+BLITS_115       0.485    66.40    21.81
+BLITS_116       0.749     7.64     2.64
+BLITS_117       0.797   256.50    20.92
+BLITS_118       0.000      nan      nan  <-- KACIRILDI
+
+=== DIS DOGRULAMA (3D-IRCADb, n=118) ===
+  dice : 0.354 [0.293, 0.412]
+  iou  : 0.268 [0.218, 0.316]
+  hd95 : 99.055 [80.129, 117.631] mm
+  assd : 52.911 [37.624, 69.085] mm
+  tamamen kacirilan tumor: 20/118
+
+=== GENELLEME ACIGI ===
+  Ic (HCC-TACE-Seg 5-fold CV): 0.662
+  Dis (3D-IRCADb)            : 0.354
+  delta (dis - ic)           : -0.309
+per-case CSV yazildi: ircadb_percase.csv
