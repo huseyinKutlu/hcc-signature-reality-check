@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or the analyses it contains, please cite it as below."
+title: "Cross-dataset generalization in HCC tumour segmentation: code and analysis"
+abstract: >-
+  Code accompanying a three-architecture study of cross-dataset generalization in
+  hepatocellular carcinoma tumour segmentation. Convolutional (nnU-Net ResEnc-M),
+  state-space (U-Mamba Bot) and transformer (SwinUNETR) models are trained on a
+  single HCC cohort under identical splits and applied without adaptation to two
+  independent external cohorts. Includes data preparation, training configurations,
+  external evaluation, case-level concordance, lesion-volume stratification,
+  calibration, selective prediction, anatomical constraint and ensemble analyses.
+type: software
+authors:
+  - family-names: Kutlu
+    given-names: Hüseyin
+    email: hkutlu@adiyaman.edu.tr
+    affiliation: >-
+      Department of Biostatistics and Medical Informatics, Faculty of Medicine,
+      Adıyaman University, Adıyaman, Türkiye
+version: 1.0.0
+date-released: 2026-09-05
+license: MIT
+repository-code: "https://github.com/huseyinKutlu/hcc-signature-reality-check"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22355825
+    description: Concept DOI resolving to the latest archived version
+keywords:
+  - hepatocellular carcinoma
+  - tumour segmentation
+  - external validation
+  - domain shift
+  - model calibration
+  - selective prediction
+  - nnU-Net
